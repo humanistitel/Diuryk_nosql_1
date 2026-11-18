@@ -1,0 +1,63 @@
+{
+  "executed_at": "2026-11-19T01:41:59.106485+04:00",
+  "deployment": "MongoDB Atlas",
+  "cluster": "SpotifyStudy",
+  "tier": "Free",
+  "provider": "AWS",
+  "region": "Frankfurt / eu-central-1",
+  "server_version": "8.0.37",
+  "database": "spotify",
+  "python": "3.12.16",
+  "pymongo": "4.7.3",
+  "mongosh": "2.14.2",
+  "raw_count": 113999,
+  "transformed_count": 113999,
+  "source_sha256": "b202fa49909b2d5cef71a04b1d21243cfeb36414535f2ca9272aa646721177bd",
+  "all_document_values_match_source": true,
+  "duration_rounding_and_types_validated": true,
+  "index_definitions": {
+    "_id_": {
+      "v": 2,
+      "key": [
+        [
+          "_id",
+          1
+        ]
+      ]
+    },
+    "nosql_1_genre_popularity_danceability": {
+      "v": 2,
+      "key": [
+        [
+          "track_genre",
+          1
+        ],
+        [
+          "popularity",
+          -1
+        ],
+        [
+          "audio_features.danceability",
+          1
+        ]
+      ]
+    },
+    "nosql_1_explicit_instrumentalness_speechiness": {
+      "v": 2,
+      "key": [
+        [
+          "explicit",
+          1
+        ],
+        [
+          "audio_features.instrumentalness",
+          1
+        ],
+        [
+          "audio_features.speechiness",
+          1
+        ]
+      ]
+    }
+  }
+}

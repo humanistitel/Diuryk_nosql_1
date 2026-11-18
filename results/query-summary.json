@@ -1,0 +1,820 @@
+{
+  "source_rows": 114000,
+  "accepted_rows": 113999,
+  "unique_track_ids": 89740,
+  "party": 7311,
+  "focus": 9324,
+  "eligible_artists": 170,
+  "returned_artists": 20,
+  "genres": 114,
+  "genres_with_outliers": 112,
+  "outliers": 3506,
+  "artists": [
+    {
+      "track_count": 3,
+      "min_popularity": 89,
+      "artist": "Harry Styles",
+      "avg_popularity": 92
+    },
+    {
+      "track_count": 5,
+      "min_popularity": 86,
+      "artist": "Olivia Rodrigo",
+      "avg_popularity": 87.4
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 79,
+      "artist": "IVE",
+      "avg_popularity": 84
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 81,
+      "artist": "Morgan Wallen",
+      "avg_popularity": 83.3
+    },
+    {
+      "track_count": 5,
+      "min_popularity": 80,
+      "artist": "One Direction",
+      "avg_popularity": 83
+    },
+    {
+      "track_count": 8,
+      "min_popularity": 77,
+      "artist": "Lil Nas X",
+      "avg_popularity": 82.8
+    },
+    {
+      "track_count": 5,
+      "min_popularity": 76,
+      "artist": "Måneskin",
+      "avg_popularity": 82.6
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 80,
+      "artist": "TV Girl",
+      "avg_popularity": 81.7
+    },
+    {
+      "track_count": 6,
+      "min_popularity": 69,
+      "artist": "Mora",
+      "avg_popularity": 80.3
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 79,
+      "artist": "Luke Combs",
+      "avg_popularity": 80.3
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 70,
+      "artist": "Maroon 5",
+      "avg_popularity": 79.7
+    },
+    {
+      "track_count": 6,
+      "min_popularity": 75,
+      "artist": "Mitski",
+      "avg_popularity": 78.3
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 74,
+      "artist": "Mark Ronson",
+      "avg_popularity": 78.3
+    },
+    {
+      "track_count": 4,
+      "min_popularity": 75,
+      "artist": "LE SSERAFIM",
+      "avg_popularity": 78
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 73,
+      "artist": "Beach Bunny",
+      "avg_popularity": 78
+    },
+    {
+      "track_count": 5,
+      "min_popularity": 69,
+      "artist": "Shubh",
+      "avg_popularity": 77.8
+    },
+    {
+      "track_count": 4,
+      "min_popularity": 65,
+      "artist": "SZA",
+      "avg_popularity": 77.8
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 75,
+      "artist": "Jhay Cortez",
+      "avg_popularity": 77.7
+    },
+    {
+      "track_count": 3,
+      "min_popularity": 76,
+      "artist": "Mother Mother",
+      "avg_popularity": 77.3
+    },
+    {
+      "track_count": 4,
+      "min_popularity": 72,
+      "artist": "Tiago PZK",
+      "avg_popularity": 77
+    }
+  ],
+  "tempo_statistics": [
+    {
+      "avg_tempo": 119.01062399999999,
+      "outlier_threshold": 178.52423326559992,
+      "genre": "acoustic",
+      "outlier_count": 34
+    },
+    {
+      "avg_tempo": 119.213337,
+      "outlier_threshold": 171.77983290898865,
+      "genre": "afrobeat",
+      "outlier_count": 50
+    },
+    {
+      "avg_tempo": 124.63440399999999,
+      "outlier_threshold": 183.07363845668272,
+      "genre": "alt-rock",
+      "outlier_count": 26
+    },
+    {
+      "avg_tempo": 122.232394,
+      "outlier_threshold": 183.27629528197124,
+      "genre": "alternative",
+      "outlier_count": 33
+    },
+    {
+      "avg_tempo": 111.113129,
+      "outlier_threshold": 175.24711928379128,
+      "genre": "ambient",
+      "outlier_count": 34
+    },
+    {
+      "avg_tempo": 123.52961599999999,
+      "outlier_threshold": 189.49235319513298,
+      "genre": "anime",
+      "outlier_count": 13
+    },
+    {
+      "avg_tempo": 128.601515,
+      "outlier_threshold": 188.28724101323618,
+      "genre": "black-metal",
+      "outlier_count": 16
+    },
+    {
+      "avg_tempo": 126.57880499999999,
+      "outlier_threshold": 179.68699441598272,
+      "genre": "bluegrass",
+      "outlier_count": 41
+    },
+    {
+      "avg_tempo": 116.568352,
+      "outlier_threshold": 177.948663421696,
+      "genre": "blues",
+      "outlier_count": 35
+    },
+    {
+      "avg_tempo": 121.935644,
+      "outlier_threshold": 177.7726676323271,
+      "genre": "brazil",
+      "outlier_count": 25
+    },
+    {
+      "avg_tempo": 133.03021299999997,
+      "outlier_threshold": 183.27511941199887,
+      "genre": "breakbeat",
+      "outlier_count": 11
+    },
+    {
+      "avg_tempo": 118.828617,
+      "outlier_threshold": 177.89113232260746,
+      "genre": "british",
+      "outlier_count": 29
+    },
+    {
+      "avg_tempo": 124.27733500000001,
+      "outlier_threshold": 181.46151282270813,
+      "genre": "cantopop",
+      "outlier_count": 24
+    },
+    {
+      "avg_tempo": 123.92268000000001,
+      "outlier_threshold": 145.66566440284592,
+      "genre": "chicago-house",
+      "outlier_count": 20
+    },
+    {
+      "avg_tempo": 123.341201,
+      "outlier_threshold": 183.31671670534757,
+      "genre": "children",
+      "outlier_count": 36
+    },
+    {
+      "avg_tempo": 115.479376,
+      "outlier_threshold": 173.30434270666137,
+      "genre": "chill",
+      "outlier_count": 32
+    },
+    {
+      "avg_tempo": 107.949793,
+      "outlier_threshold": 170.01118064050164,
+      "genre": "classical",
+      "outlier_count": 37
+    },
+    {
+      "avg_tempo": 123.301328,
+      "outlier_threshold": 175.48361729881924,
+      "genre": "club",
+      "outlier_count": 49
+    },
+    {
+      "avg_tempo": 100.995582,
+      "outlier_threshold": 157.9893144545524,
+      "genre": "comedy",
+      "outlier_count": 54
+    },
+    {
+      "avg_tempo": 123.963307,
+      "outlier_threshold": 187.4512634527557,
+      "genre": "country",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 120.128306,
+      "outlier_threshold": 170.72026902767323,
+      "genre": "dance",
+      "outlier_count": 54
+    },
+    {
+      "avg_tempo": 112.909984,
+      "outlier_threshold": 171.37592135507003,
+      "genre": "dancehall",
+      "outlier_count": 81
+    },
+    {
+      "avg_tempo": 123.779016,
+      "outlier_threshold": 181.53437019410893,
+      "genre": "death-metal",
+      "outlier_count": 36
+    },
+    {
+      "avg_tempo": 120.874904,
+      "outlier_threshold": 144.74723125000094,
+      "genre": "deep-house",
+      "outlier_count": 20
+    },
+    {
+      "avg_tempo": 126.59223399999999,
+      "outlier_threshold": 147.09590749537577,
+      "genre": "detroit-techno",
+      "outlier_count": 28
+    },
+    {
+      "avg_tempo": 121.97438000000001,
+      "outlier_threshold": 160.39887981913103,
+      "genre": "disco",
+      "outlier_count": 31
+    },
+    {
+      "avg_tempo": 112.060854,
+      "outlier_threshold": 176.07864980481298,
+      "genre": "disney",
+      "outlier_count": 34
+    },
+    {
+      "avg_tempo": 155.241712,
+      "outlier_threshold": 218.35784877959247,
+      "genre": "drum-and-bass",
+      "outlier_count": 0
+    },
+    {
+      "avg_tempo": 129.450647,
+      "outlier_threshold": 189.00766718282614,
+      "genre": "dub",
+      "outlier_count": 5
+    },
+    {
+      "avg_tempo": 133.631709,
+      "outlier_threshold": 189.70094905150484,
+      "genre": "dubstep",
+      "outlier_count": 6
+    },
+    {
+      "avg_tempo": 122.037299,
+      "outlier_threshold": 166.60091971392308,
+      "genre": "edm",
+      "outlier_count": 58
+    },
+    {
+      "avg_tempo": 120.83505899999999,
+      "outlier_threshold": 175.73917306492297,
+      "genre": "electro",
+      "outlier_count": 62
+    },
+    {
+      "avg_tempo": 122.947839,
+      "outlier_threshold": 171.7487118655166,
+      "genre": "electronic",
+      "outlier_count": 41
+    },
+    {
+      "avg_tempo": 126.992643,
+      "outlier_threshold": 189.15749481057065,
+      "genre": "emo",
+      "outlier_count": 14
+    },
+    {
+      "avg_tempo": 118.469526,
+      "outlier_threshold": 174.77234940598288,
+      "genre": "folk",
+      "outlier_count": 38
+    },
+    {
+      "avg_tempo": 140.362197,
+      "outlier_threshold": 197.9273677093861,
+      "genre": "forro",
+      "outlier_count": 1
+    },
+    {
+      "avg_tempo": 117.82008599999999,
+      "outlier_threshold": 168.04256858557525,
+      "genre": "french",
+      "outlier_count": 45
+    },
+    {
+      "avg_tempo": 117.755823,
+      "outlier_threshold": 171.74718654654032,
+      "genre": "funk",
+      "outlier_count": 51
+    },
+    {
+      "avg_tempo": 127.048215,
+      "outlier_threshold": 184.59929584409105,
+      "genre": "garage",
+      "outlier_count": 24
+    },
+    {
+      "avg_tempo": 117.503453,
+      "outlier_threshold": 175.97861698396127,
+      "genre": "german",
+      "outlier_count": 31
+    },
+    {
+      "avg_tempo": 125.62512699999999,
+      "outlier_threshold": 177.58295935558897,
+      "genre": "gospel",
+      "outlier_count": 17
+    },
+    {
+      "avg_tempo": 124.267599,
+      "outlier_threshold": 179.47587288159127,
+      "genre": "goth",
+      "outlier_count": 28
+    },
+    {
+      "avg_tempo": 119.22991499999999,
+      "outlier_threshold": 172.9297746885234,
+      "genre": "grindcore",
+      "outlier_count": 48
+    },
+    {
+      "avg_tempo": 123.739211,
+      "outlier_threshold": 165.96391268962617,
+      "genre": "groove",
+      "outlier_count": 45
+    },
+    {
+      "avg_tempo": 129.349208,
+      "outlier_threshold": 190.42262170713568,
+      "genre": "grunge",
+      "outlier_count": 23
+    },
+    {
+      "avg_tempo": 112.00023900000001,
+      "outlier_threshold": 170.9828934497916,
+      "genre": "guitar",
+      "outlier_count": 40
+    },
+    {
+      "avg_tempo": 152.908962,
+      "outlier_threshold": 207.02025667246392,
+      "genre": "happy",
+      "outlier_count": 0
+    },
+    {
+      "avg_tempo": 125.381797,
+      "outlier_threshold": 182.44807911873596,
+      "genre": "hard-rock",
+      "outlier_count": 27
+    },
+    {
+      "avg_tempo": 125.376114,
+      "outlier_threshold": 192.10584812999647,
+      "genre": "hardcore",
+      "outlier_count": 27
+    },
+    {
+      "avg_tempo": 146.83745199999998,
+      "outlier_threshold": 191.7192760327951,
+      "genre": "hardstyle",
+      "outlier_count": 6
+    },
+    {
+      "avg_tempo": 126.61390700000001,
+      "outlier_threshold": 181.58809600765528,
+      "genre": "heavy-metal",
+      "outlier_count": 32
+    },
+    {
+      "avg_tempo": 116.769582,
+      "outlier_threshold": 175.50718051853926,
+      "genre": "hip-hop",
+      "outlier_count": 40
+    },
+    {
+      "avg_tempo": 116.556879,
+      "outlier_threshold": 175.44092735832393,
+      "genre": "honky-tonk",
+      "outlier_count": 35
+    },
+    {
+      "avg_tempo": 121.106951,
+      "outlier_threshold": 158.9371634395092,
+      "genre": "house",
+      "outlier_count": 40
+    },
+    {
+      "avg_tempo": 123.297377,
+      "outlier_threshold": 185.59782547289214,
+      "genre": "idm",
+      "outlier_count": 25
+    },
+    {
+      "avg_tempo": 116.142954,
+      "outlier_threshold": 172.51477911077268,
+      "genre": "indian",
+      "outlier_count": 35
+    },
+    {
+      "avg_tempo": 119.093452,
+      "outlier_threshold": 180.35185128844688,
+      "genre": "indie",
+      "outlier_count": 24
+    },
+    {
+      "avg_tempo": 120.17900900000001,
+      "outlier_threshold": 180.50505184920135,
+      "genre": "indie-pop",
+      "outlier_count": 27
+    },
+    {
+      "avg_tempo": 126.831205,
+      "outlier_threshold": 179.48283264887615,
+      "genre": "industrial",
+      "outlier_count": 44
+    },
+    {
+      "avg_tempo": 114.769364,
+      "outlier_threshold": 184.9491521571469,
+      "genre": "iranian",
+      "outlier_count": 28
+    },
+    {
+      "avg_tempo": 114.915894,
+      "outlier_threshold": 175.14916375945316,
+      "genre": "j-dance",
+      "outlier_count": 62
+    },
+    {
+      "avg_tempo": 136.11200399999998,
+      "outlier_threshold": 192.57293993875274,
+      "genre": "j-idol",
+      "outlier_count": 17
+    },
+    {
+      "avg_tempo": 124.61311500000001,
+      "outlier_threshold": 188.0245708884678,
+      "genre": "j-pop",
+      "outlier_count": 27
+    },
+    {
+      "avg_tempo": 128.52244199999998,
+      "outlier_threshold": 192.23994743694053,
+      "genre": "j-rock",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 112.63646899999999,
+      "outlier_threshold": 175.88515868941693,
+      "genre": "jazz",
+      "outlier_count": 53
+    },
+    {
+      "avg_tempo": 119.2248028028028,
+      "outlier_threshold": 173.95167871301254,
+      "genre": "k-pop",
+      "outlier_count": 33
+    },
+    {
+      "avg_tempo": 121.750705,
+      "outlier_threshold": 174.3391576147699,
+      "genre": "kids",
+      "outlier_count": 36
+    },
+    {
+      "avg_tempo": 119.812273,
+      "outlier_threshold": 185.21007268501907,
+      "genre": "latin",
+      "outlier_count": 16
+    },
+    {
+      "avg_tempo": 119.385197,
+      "outlier_threshold": 185.66879492166362,
+      "genre": "latino",
+      "outlier_count": 18
+    },
+    {
+      "avg_tempo": 119.314765,
+      "outlier_threshold": 177.4299658467931,
+      "genre": "malay",
+      "outlier_count": 28
+    },
+    {
+      "avg_tempo": 123.47590600000001,
+      "outlier_threshold": 181.90654720473663,
+      "genre": "mandopop",
+      "outlier_count": 21
+    },
+    {
+      "avg_tempo": 127.907465,
+      "outlier_threshold": 187.9104502933594,
+      "genre": "metal",
+      "outlier_count": 27
+    },
+    {
+      "avg_tempo": 130.580195,
+      "outlier_threshold": 192.45688355163384,
+      "genre": "metalcore",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 124.74797,
+      "outlier_threshold": 143.82567012565457,
+      "genre": "minimal-techno",
+      "outlier_count": 20
+    },
+    {
+      "avg_tempo": 120.16105499999999,
+      "outlier_threshold": 179.57084270270013,
+      "genre": "mpb",
+      "outlier_count": 34
+    },
+    {
+      "avg_tempo": 107.958746,
+      "outlier_threshold": 170.18440614941048,
+      "genre": "new-age",
+      "outlier_count": 45
+    },
+    {
+      "avg_tempo": 105.584558,
+      "outlier_threshold": 167.34439701198698,
+      "genre": "opera",
+      "outlier_count": 65
+    },
+    {
+      "avg_tempo": 126.859308,
+      "outlier_threshold": 187.50031017176946,
+      "genre": "pagode",
+      "outlier_count": 7
+    },
+    {
+      "avg_tempo": 131.30032200000002,
+      "outlier_threshold": 163.84841765319095,
+      "genre": "party",
+      "outlier_count": 31
+    },
+    {
+      "avg_tempo": 118.08467399999999,
+      "outlier_threshold": 188.33810118790944,
+      "genre": "piano",
+      "outlier_count": 38
+    },
+    {
+      "avg_tempo": 120.92707300000001,
+      "outlier_threshold": 183.02881841765063,
+      "genre": "pop",
+      "outlier_count": 21
+    },
+    {
+      "avg_tempo": 117.257478,
+      "outlier_threshold": 173.90356886090643,
+      "genre": "pop-film",
+      "outlier_count": 41
+    },
+    {
+      "avg_tempo": 134.651615,
+      "outlier_threshold": 194.16288718827624,
+      "genre": "power-pop",
+      "outlier_count": 26
+    },
+    {
+      "avg_tempo": 125.093636,
+      "outlier_threshold": 148.84861791567437,
+      "genre": "progressive-house",
+      "outlier_count": 27
+    },
+    {
+      "avg_tempo": 121.572999,
+      "outlier_threshold": 177.12219202906203,
+      "genre": "psych-rock",
+      "outlier_count": 35
+    },
+    {
+      "avg_tempo": 133.60051800000002,
+      "outlier_threshold": 196.28203137259422,
+      "genre": "punk",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 132.219025,
+      "outlier_threshold": 194.088605524273,
+      "genre": "punk-rock",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 124.038939,
+      "outlier_threshold": 180.87271498327527,
+      "genre": "r-n-b",
+      "outlier_count": 19
+    },
+    {
+      "avg_tempo": 119.867602,
+      "outlier_threshold": 186.4535835833813,
+      "genre": "reggae",
+      "outlier_count": 15
+    },
+    {
+      "avg_tempo": 118.872403,
+      "outlier_threshold": 187.40386760073915,
+      "genre": "reggaeton",
+      "outlier_count": 17
+    },
+    {
+      "avg_tempo": 126.321238,
+      "outlier_threshold": 188.6055530833131,
+      "genre": "rock",
+      "outlier_count": 36
+    },
+    {
+      "avg_tempo": 120.390017,
+      "outlier_threshold": 180.61489658744995,
+      "genre": "rock-n-roll",
+      "outlier_count": 42
+    },
+    {
+      "avg_tempo": 123.660635,
+      "outlier_threshold": 190.76622859879848,
+      "genre": "rockabilly",
+      "outlier_count": 30
+    },
+    {
+      "avg_tempo": 109.693052,
+      "outlier_threshold": 168.3956145449961,
+      "genre": "romance",
+      "outlier_count": 57
+    },
+    {
+      "avg_tempo": 119.06495,
+      "outlier_threshold": 180.12835393471366,
+      "genre": "sad",
+      "outlier_count": 17
+    },
+    {
+      "avg_tempo": 119.91508900000001,
+      "outlier_threshold": 186.80901608768346,
+      "genre": "salsa",
+      "outlier_count": 24
+    },
+    {
+      "avg_tempo": 118.122361,
+      "outlier_threshold": 176.21464750720088,
+      "genre": "samba",
+      "outlier_count": 17
+    },
+    {
+      "avg_tempo": 127.052197,
+      "outlier_threshold": 188.41409445391488,
+      "genre": "sertanejo",
+      "outlier_count": 15
+    },
+    {
+      "avg_tempo": 114.372216,
+      "outlier_threshold": 176.16464791755263,
+      "genre": "show-tunes",
+      "outlier_count": 29
+    },
+    {
+      "avg_tempo": 119.737322,
+      "outlier_threshold": 181.6042568081935,
+      "genre": "singer-songwriter",
+      "outlier_count": 28
+    },
+    {
+      "avg_tempo": 128.338341,
+      "outlier_threshold": 188.86208220157212,
+      "genre": "ska",
+      "outlier_count": 25
+    },
+    {
+      "avg_tempo": 84.619491,
+      "outlier_threshold": 173.88152629841605,
+      "genre": "sleep",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 119.737322,
+      "outlier_threshold": 181.6042568081935,
+      "genre": "songwriter",
+      "outlier_count": 28
+    },
+    {
+      "avg_tempo": 114.62916899999999,
+      "outlier_threshold": 171.463970786808,
+      "genre": "soul",
+      "outlier_count": 57
+    },
+    {
+      "avg_tempo": 122.832437,
+      "outlier_threshold": 183.2161424592721,
+      "genre": "spanish",
+      "outlier_count": 22
+    },
+    {
+      "avg_tempo": 111.763835,
+      "outlier_threshold": 182.93125258118738,
+      "genre": "study",
+      "outlier_count": 13
+    },
+    {
+      "avg_tempo": 121.094523,
+      "outlier_threshold": 175.0721001587229,
+      "genre": "swedish",
+      "outlier_count": 35
+    },
+    {
+      "avg_tempo": 122.85003200000001,
+      "outlier_threshold": 168.11308981747302,
+      "genre": "synth-pop",
+      "outlier_count": 51
+    },
+    {
+      "avg_tempo": 114.55432,
+      "outlier_threshold": 160.94529431430388,
+      "genre": "tango",
+      "outlier_count": 49
+    },
+    {
+      "avg_tempo": 128.255482,
+      "outlier_threshold": 159.7190626221527,
+      "genre": "techno",
+      "outlier_count": 55
+    },
+    {
+      "avg_tempo": 133.276726,
+      "outlier_threshold": 163.293113575651,
+      "genre": "trance",
+      "outlier_count": 35
+    },
+    {
+      "avg_tempo": 118.74361599999999,
+      "outlier_threshold": 179.67000718236181,
+      "genre": "trip-hop",
+      "outlier_count": 38
+    },
+    {
+      "avg_tempo": 120.367607,
+      "outlier_threshold": 179.63271934797586,
+      "genre": "turkish",
+      "outlier_count": 31
+    },
+    {
+      "avg_tempo": 121.393711,
+      "outlier_threshold": 182.2291819678976,
+      "genre": "world-music",
+      "outlier_count": 11
+    }
+  ]
+}

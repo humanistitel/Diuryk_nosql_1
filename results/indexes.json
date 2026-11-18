@@ -1,0 +1,81 @@
+{
+  "genreDanceability": {
+    "collectionScan": {
+      "stages": [
+        "SORT",
+        "COLLSCAN"
+      ],
+      "indexes": [],
+      "nReturned": 354,
+      "totalKeysExamined": 0,
+      "totalDocsExamined": 113999,
+      "executionTimeMillis": 89
+    },
+    "indexed": {
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ],
+      "indexes": [
+        "nosql_1_genre_popularity_danceability"
+      ],
+      "nReturned": 354,
+      "totalKeysExamined": 412,
+      "totalDocsExamined": 354,
+      "executionTimeMillis": 2
+    }
+  },
+  "focus": {
+    "collectionScan": {
+      "stages": [
+        "COLLSCAN"
+      ],
+      "indexes": [],
+      "nReturned": 9324,
+      "totalKeysExamined": 0,
+      "totalDocsExamined": 113999,
+      "executionTimeMillis": 126
+    },
+    "indexed": {
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ],
+      "indexes": [
+        "nosql_1_explicit_instrumentalness_speechiness"
+      ],
+      "nReturned": 9324,
+      "totalKeysExamined": 16602,
+      "totalDocsExamined": 16141,
+      "executionTimeMillis": 50
+    }
+  },
+  "coverage": {
+    "fullDocuments": {
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ],
+      "indexes": [
+        "nosql_1_genre_popularity_danceability"
+      ],
+      "nReturned": 317,
+      "totalKeysExamined": 317,
+      "totalDocsExamined": 317,
+      "executionTimeMillis": 0
+    },
+    "indexOnlyProjection": {
+      "stages": [
+        "PROJECTION_COVERED",
+        "IXSCAN"
+      ],
+      "indexes": [
+        "nosql_1_genre_popularity_danceability"
+      ],
+      "nReturned": 317,
+      "totalKeysExamined": 317,
+      "totalDocsExamined": 0,
+      "executionTimeMillis": 0
+    }
+  }
+}
